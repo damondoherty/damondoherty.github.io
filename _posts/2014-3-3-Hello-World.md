@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Why is it so difficult to ask for help?
 published: true
 ---
-
-# Why is it so difficult to ask for help?
 
 My first blog is going to be personal stuff. You see, I decided that I want to learn coding mid-college. My initial leaning used to be towards Humanities (journalism in particular). Writing was the area I’ve been always comfortable in. I was good with words as long as I can remember myself. When I was still in preschool, I wanted to learn five different languages. I used to speculate what those languages might be. They ranged from French to Japanese. Yet they definitely never included JavaScript or Python.
 So trying to get a grasp on coding was difficult. Yet it wasn’t so challenging intellectually when compared to how hard it was for me to be a complete newbie at something. Why? It meant starting from the square one, and, most frighteningly, asking for help. I was surprised at how difficult the latter have been for me and I started wondering why.
